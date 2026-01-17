@@ -1,8 +1,8 @@
 {
     "id": "my-online-music-player",
-    "display_name": "在线音乐播放器",
+    "display_name": "音乐播放器",
     "version": "1.0.0",
-    "description": "基于 yuyu846 模板的在线音乐播放插件",
-    "author": "你的名字",
+    "description": "在线音乐播放插件",
+    "author": "yuyu",
     "entry_point": "index.js"
 }
