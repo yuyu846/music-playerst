@@ -1,8 +1,9 @@
 {
-    "id": "my-online-music-player",
-    "display_name": "音乐播放器",
+    "display_name": "Online Music Player",
+    "author": "yuyu846",
     "version": "1.0.0",
-    "description": "在线音乐播放插件",
-    "author": "yuyu",
-    "entry_point": "index.js"
+    "icon": "fa-music",
+    "css": "style.css",
+    "js": "index.js",
+    "description": "一个简单的在线音乐播放器悬浮窗，支持添加网络音频链接。"
 }
