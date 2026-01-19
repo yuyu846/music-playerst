@@ -100,8 +100,13 @@ importers:
         specifier: ^0.4.2
         version: 0.4.2(@typescript-eslint/utils@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint@9.39.2(jiti@2.6.1))
       eslint-plugin-vue:
+<<<<<<< HEAD
         specifier: ^10.6.2
         version: 10.6.2(@typescript-eslint/parser@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint@9.39.2(jiti@2.6.1))(vue-eslint-parser@10.2.0(eslint@9.39.2(jiti@2.6.1)))
+=======
+        specifier: ^10.7.0
+        version: 10.7.0(@typescript-eslint/parser@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint@9.39.2(jiti@2.6.1))(vue-eslint-parser@10.2.0(eslint@9.39.2(jiti@2.6.1)))
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
       globals:
         specifier: ^16.5.0
         version: 16.5.0
@@ -1109,8 +1114,13 @@ packages:
   base-log-factory@2.1.4:
     resolution: {integrity: sha512-FK1tHOB+rXvlBcGYYhSNR2QS2juEG4SZ1ekXQRQ2XscYNtDxllzqkzfgBFr12EVrKb2/07NLdbr0cSwVoc378A==}
 
+<<<<<<< HEAD
   baseline-browser-mapping@2.9.14:
     resolution: {integrity: sha512-B0xUquLkiGLgHhpPBqvl7GWegWBUNuujQ6kXd/r1U38ElPT6Ok8KZ8e+FpUGEc2ZoRQUzq/aUnaKFc/svWUGSg==}
+=======
+  baseline-browser-mapping@2.9.15:
+    resolution: {integrity: sha512-kX8h7K2srmDyYnXRIppo4AH/wYgzWVCs+eKr3RusRSQ5PvRYoEFmR/I0PbdTjKFAoKqp5+kbxnNTFO9jOfSVJg==}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
     hasBin: true
 
   big.js@5.2.2:
@@ -1154,8 +1164,13 @@ packages:
     resolution: {integrity: sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==}
     engines: {node: '>=6'}
 
+<<<<<<< HEAD
   caniuse-lite@1.0.30001764:
     resolution: {integrity: sha512-9JGuzl2M+vPL+pz70gtMF9sHdMFbY9FJaQBi186cHKH3pSzDvzoUJUPV6fqiKIMyXbud9ZLg4F3Yza1vJ1+93g==}
+=======
+  caniuse-lite@1.0.30001765:
+    resolution: {integrity: sha512-LWcNtSyZrakjECqmpP4qdg0MMGdN368D7X8XvvAqOcqMv0RxnlqVKZl2V6/mBR68oYMxOZPLw/gO7DuisMHUvQ==}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
 
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
@@ -1183,8 +1198,13 @@ packages:
   commander@2.20.3:
     resolution: {integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==}
 
+<<<<<<< HEAD
   comment-parser@1.4.1:
     resolution: {integrity: sha512-buhp5kePrmda3vhc5B9t7pUQXAb2Tnd0qgpkIhPhkHXxJpiPJ11H0ZEU0oBpJ2QztSbzG/ZxMj/CHsYJqRHmyg==}
+=======
+  comment-parser@1.4.4:
+    resolution: {integrity: sha512-0D6qSQ5IkeRrGJFHRClzaMOenMeT0gErz3zIw3AprKMqhRN6LNU2jQOdkPG/FZ+8bCgXE1VidrgSzlBBDZRr8A==}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
     engines: {node: '>= 12.0.0'}
 
   concat-map@0.0.1:
@@ -1370,8 +1390,13 @@ packages:
       '@typescript-eslint/utils':
         optional: true
 
+<<<<<<< HEAD
   eslint-plugin-vue@10.6.2:
     resolution: {integrity: sha512-nA5yUs/B1KmKzvC42fyD0+l9Yd+LtEpVhWRbXuDj0e+ZURcTtyRbMDWUeJmTAh2wC6jC83raS63anNM2YT3NPw==}
+=======
+  eslint-plugin-vue@10.7.0:
+    resolution: {integrity: sha512-r2XFCK4qlo1sxEoAMIoTTX0PZAdla0JJDt1fmYiworZUX67WeEGqm+JbyAg3M+pGiJ5U6Mp5WQbontXWtIW7TA==}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     peerDependencies:
       '@stylistic/eslint-plugin': ^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0
@@ -3232,7 +3257,11 @@ snapshots:
   autoprefixer@10.4.23(postcss@8.5.6):
     dependencies:
       browserslist: 4.28.1
+<<<<<<< HEAD
       caniuse-lite: 1.0.30001764
+=======
+      caniuse-lite: 1.0.30001765
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.6
@@ -3245,7 +3274,11 @@ snapshots:
       date-manip: 2.0.6
       is-what-type: 1.1.4
 
+<<<<<<< HEAD
   baseline-browser-mapping@2.9.14: {}
+=======
+  baseline-browser-mapping@2.9.15: {}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
 
   big.js@5.2.2: {}
 
@@ -3285,8 +3318,13 @@ snapshots:
 
   browserslist@4.28.1:
     dependencies:
+<<<<<<< HEAD
       baseline-browser-mapping: 2.9.14
       caniuse-lite: 1.0.30001764
+=======
+      baseline-browser-mapping: 2.9.15
+      caniuse-lite: 1.0.30001765
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
       electron-to-chromium: 1.5.267
       node-releases: 2.0.27
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
@@ -3295,7 +3333,11 @@ snapshots:
 
   callsites@3.1.0: {}
 
+<<<<<<< HEAD
   caniuse-lite@1.0.30001764: {}
+=======
+  caniuse-lite@1.0.30001765: {}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
 
   chalk@4.1.2:
     dependencies:
@@ -3326,7 +3368,11 @@ snapshots:
 
   commander@2.20.3: {}
 
+<<<<<<< HEAD
   comment-parser@1.4.1: {}
+=======
+  comment-parser@1.4.4: {}
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
 
   concat-map@0.0.1: {}
 
@@ -3494,7 +3540,11 @@ snapshots:
   eslint-plugin-import-x@4.16.1(@typescript-eslint/utils@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint-import-resolver-node@0.3.9)(eslint@9.39.2(jiti@2.6.1)):
     dependencies:
       '@typescript-eslint/types': 8.53.0
+<<<<<<< HEAD
       comment-parser: 1.4.1
+=======
+      comment-parser: 1.4.4
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
       debug: 4.4.3
       eslint: 9.39.2(jiti@2.6.1)
       eslint-import-context: 0.1.9(unrs-resolver@1.11.1)
@@ -3515,7 +3565,11 @@ snapshots:
     optionalDependencies:
       '@typescript-eslint/utils': 8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807)
 
+<<<<<<< HEAD
   eslint-plugin-vue@10.6.2(@typescript-eslint/parser@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint@9.39.2(jiti@2.6.1))(vue-eslint-parser@10.2.0(eslint@9.39.2(jiti@2.6.1))):
+=======
+  eslint-plugin-vue@10.7.0(@typescript-eslint/parser@8.53.0(eslint@9.39.2(jiti@2.6.1))(typescript@6.0.0-dev.20250807))(eslint@9.39.2(jiti@2.6.1))(vue-eslint-parser@10.2.0(eslint@9.39.2(jiti@2.6.1))):
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
     dependencies:
       '@eslint-community/eslint-utils': 4.9.1(eslint@9.39.2(jiti@2.6.1))
       eslint: 9.39.2(jiti@2.6.1)

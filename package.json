@@ -31,7 +31,11 @@
     "eslint-plugin-better-tailwindcss": "^3.8.0",
     "eslint-plugin-import-x": "^4.16.1",
     "eslint-plugin-pinia": "^0.4.2",
+<<<<<<< HEAD
     "eslint-plugin-vue": "^10.6.2",
+=======
+    "eslint-plugin-vue": "^10.7.0",
+>>>>>>> 687fb440ddfe4e5037398eb3ab2bfc0cf1a901e1
     "globals": "^16.5.0",
     "highlight.js": "^11.11.1",
     "postcss-load-config": "^6.0.1",
