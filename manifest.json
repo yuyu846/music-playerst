@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "display_name": "Online Music Player",
     "author": "yuyu846",
     "version": "1.0.0",
@@ -6,4 +7,19 @@
     "css": "style.css",
     "js": "index.js",
     "description": "一个简单的在线音乐播放器悬浮窗，支持添加网络音频链接。"
+=======
+  "display_name": "<插件名称>",
+  "loading_order": 120,
+  "requires": [],
+  "optional": [],
+  "js": "dist/index.js",
+  "css": "dist/index.css",
+  "author": "<作者名称>",
+  "version": "1.0.0",
+  "homePage": "<仓库URL>",
+  "auto_update": true,
+  "i18n": {
+    "en": "i18n/en.json"
+  }
+>>>>>>> ebd26c6beadc243ad9a8956186738d4602180270
 }
